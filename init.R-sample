@@ -1,2 +1,3 @@
-twitter_oauth  <- 'KEY';
-twitter_secret <- 'SECRET_KEY';
+twitter_oauth  <- 'KEY'
+twitter_secret <- 'SECRET_KEY'
+google_key <- 'KEY'
