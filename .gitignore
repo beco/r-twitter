@@ -1,3 +1,6 @@
 .httr-oauth
 data
 init.R
+rsconnect/*
+.RData
+.Rhistory
