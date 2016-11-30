@@ -4,7 +4,7 @@ shinyUI(pageWithSidebar(
   titlePanel("twitter stuff"),
   sidebarPanel(
     wellPanel(
-      textInput("screen_name","Username:", "", NULL, "@pictoline"),
+      textInput("screen_name","Username:", "", NULL, "beco"),
       sliderInput("num", "Number of tweets:", 10, 200, 200, 10)
     ),
     wellPanel(
